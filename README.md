@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maheera09
+- 👋 Hi, I’m Maheera
 - 👀 I’m interested in Coding, reading, writing, movies and the list goes on...
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on web based projects, mostly focused on front-end
